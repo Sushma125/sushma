@@ -1,6 +1,6 @@
 # sushma
 # aditya
  *hello world*   #italic
-#bold  ** hello**
-#italic+bold  ***hello world***
+** hello** #bold 
+ ***hello world*** #italic+bold 
 
